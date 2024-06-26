@@ -1,0 +1,26 @@
+#body {
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+a {
+    color: white;
+}
+
+form {
+    align-items: center;
+}
+
+table {
+    align-self: center;
+    
+}
