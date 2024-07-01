@@ -4,6 +4,33 @@ body {
     background-color: ;
 }
 
+.d11 {
+    margin-left: 15px;
+}
+
+.d123 {
+    
+    display: flex;
+    align-items: center;
+    
+}
+
+.d12 {
+    float: right;
+    align-items: end;
+    height: 28px;
+    border: 2px solid black;
+}
+
+.but {
+    
+    margin-left: 5px;
+    border: 2px solid black;
+    height: 32px;
+}
+.single {
+    margin-left: 57%;
+}
 ul {
     list-style-type: none;
     /* border: 3px solid black; */
