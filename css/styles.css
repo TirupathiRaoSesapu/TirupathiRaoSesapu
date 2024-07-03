@@ -1,15 +1,22 @@
+* {
+    border: 1px solid black;
+}
 body {
     margin: 0px;
     padding: 0px;
-    background-color: ;
+    background-color:aquamarine;
 }
+
 
 .d11 {
     margin-left: 15px;
 }
 
+.d11 a {
+    text-decoration: none;
+}
 .d123 {
-    
+    align-content: center;    
     display: flex;
     align-items: center;
     
@@ -23,13 +30,20 @@ body {
 }
 
 .but {
-    
     margin-left: 5px;
     border: 2px solid black;
     height: 32px;
+    color: black;
+    font-weight: bolder;
+}
+
+.but a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
 }
 .single {
-    margin-left: 57%;
+    margin-left: 56%;
 }
 ul {
     list-style-type: none;
@@ -45,7 +59,7 @@ ul {
 li {
     float: left;
     padding:5px 10px;
-    width:6.87%;
+    width:6.85%;
     text-align: center;
     /* border: 3px solid black; */
     /* margin: 10px; */
@@ -55,6 +69,7 @@ li {
 li a {
     text-decoration: none;
     font-weight: bolder;
+    font-size: larger;
 }
 
 .d1 {
